@@ -1,0 +1,14 @@
+/Users/alexseich/Desktop/Examples/Hello Console/bin/Debug/net7.0/Hello Console
+/Users/alexseich/Desktop/Examples/Hello Console/bin/Debug/net7.0/Hello Console.deps.json
+/Users/alexseich/Desktop/Examples/Hello Console/bin/Debug/net7.0/Hello Console.runtimeconfig.json
+/Users/alexseich/Desktop/Examples/Hello Console/bin/Debug/net7.0/Hello Console.dll
+/Users/alexseich/Desktop/Examples/Hello Console/bin/Debug/net7.0/Hello Console.pdb
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/Hello Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/Hello Console.AssemblyInfoInputs.cache
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/Hello Console.AssemblyInfo.cs
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/Hello Console.csproj.CoreCompileInputs.cache
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/Hello Console.dll
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/refint/Hello Console.dll
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/Hello Console.pdb
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/Hello Console.genruntimeconfig.cache
+/Users/alexseich/Desktop/Examples/Hello Console/obj/Debug/net7.0/ref/Hello Console.dll
