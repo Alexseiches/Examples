@@ -1,0 +1,14 @@
+/Users/alexseich/Desktop/Examples/Example_01/bin/Debug/net7.0/Example_01
+/Users/alexseich/Desktop/Examples/Example_01/bin/Debug/net7.0/Example_01.deps.json
+/Users/alexseich/Desktop/Examples/Example_01/bin/Debug/net7.0/Example_01.runtimeconfig.json
+/Users/alexseich/Desktop/Examples/Example_01/bin/Debug/net7.0/Example_01.dll
+/Users/alexseich/Desktop/Examples/Example_01/bin/Debug/net7.0/Example_01.pdb
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/Example_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/Example_01.AssemblyInfoInputs.cache
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/Example_01.AssemblyInfo.cs
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/Example_01.csproj.CoreCompileInputs.cache
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/Example_01.dll
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/refint/Example_01.dll
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/Example_01.pdb
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/Example_01.genruntimeconfig.cache
+/Users/alexseich/Desktop/Examples/Example_01/obj/Debug/net7.0/ref/Example_01.dll
